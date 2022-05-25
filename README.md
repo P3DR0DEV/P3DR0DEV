@@ -4,7 +4,8 @@
 - 🤔 Currently learning Python, HTML & CSS
 <p align="center"><a href="https://instagram.com/pedro_camposm">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a></p>
+  </a>&nbsp;&nbsp;
+    <a href="https://twitter.com/esquilota"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a></p>
 
 <!--
 **P3DR0DEV/P3DR0DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

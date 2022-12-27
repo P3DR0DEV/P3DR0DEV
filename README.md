@@ -4,7 +4,7 @@
 <p align="center"><a href="https://instagram.com/pedro_camposm" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;
-    <a href="https://twitter.com/esquilota" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;</p>
+    <a href="https://twitter.com/esquilolo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;</p>
 
 - 🤔 Currently learning ReactJS & NodeJS. <br>
 - 🔭 Languages that i use: HTML/CSS, JavaScript & Python.

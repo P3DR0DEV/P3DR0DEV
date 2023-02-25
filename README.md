@@ -12,6 +12,8 @@
     
 <h3>How to reach me</h3>
 
+- **pedrohenriquecamposmendes@gmail.com**
+- <a href="https://www.linkedin.com/in/pedro-cmendes/">LinkedIn</a>
  <!--Logo Languages-->
 <p>
     <a href="https://www.w3schools.com/css/" target="_blank">

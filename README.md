@@ -6,12 +6,37 @@
   </a>&nbsp;
     <a href="https://twitter.com/esquilolo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;</p>
 
-- 🤔 Currently learning ReactJS & NodeJS. <br>
-- 🔭 Languages that i use: HTML/CSS, JavaScript & Python.
+- 🤔 Currently improving skills with ReactJS & NodeJS/express.
+- 🌱 Learning TypeScript.
+- 🔭 Languages that i use: HTML/CSS, JavaScript, Python, ReactJS & NodeJS.
     
- <!--Logo Languages-->
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="www.ecma-international.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"><img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="react-js logo" ></a> <a src="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="node-js logo" ></a>
+<h3>How to reach me</h3>
 
+ <!--Logo Languages-->
+<p>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a>
+    <a href="https://www.python.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a>
+    <a href="www.ecma-international.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+     <a href="https://www.typescriptlang.org">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank">
+        <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="react-js logo" >
+    </a> 
+    <a href="https://nodejs.org/en/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="node-js logo" >
+    </a>
+</p>
+<img align="center" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=P3DR0DEV&show_icons=true&locale=en&layout=compact" alt="P3DR0DEV" />
 <!--
 **P3DR0DEV/P3DR0DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

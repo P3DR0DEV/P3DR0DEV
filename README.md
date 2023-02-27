@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=P3DR0DEV&label=Profile%20views&color=0e75b6&style=flat" alt="P3DR0DEV" /> </p>
 <h1 align="center">Hi👋, i'm Pedro Henrique</h1>
 <h3 align="center">I'm a Student, trying to improve my knowledge</h3>
 

@@ -9,39 +9,55 @@
 
 - 🤔 Currently improving skills with ReactJS & NodeJS/express.
 - 🌱 Learning TypeScript.
-- 🔭 Languages that i use: HTML/CSS, JavaScript, Python, ReactJS & NodeJS.
-    
+
 <h3>How to reach me</h3>
 
 - **pedrohenriquecamposmendes@gmail.com**
 - <a href="https://www.linkedin.com/in/pedro-cmendes/">LinkedIn</a>
- <!--Logo Languages-->
-<p>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://www.python.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>
-    <a href="www.ecma-international.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-     <a href="https://www.typescriptlang.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-        <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="react-js logo" >
-    </a> 
-    <a href="https://nodejs.org/en/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="node-js logo" >
-    </a>
-</p>
-<img align="center" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=P3DR0DEV&show_icons=true&locale=en&layout=compact" alt="P3DR0DEV" />
-<!--
-**P3DR0DEV/P3DR0DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   <!--Logo Languages-->
+
+  #
+
+- 🔭 Languages that i use: HTML/CSS, JavaScript, Python, ReactJS & NodeJS.
+- ⚡ Tools and DB: Docker, MYSQL/MariaDB and MongoDB.
+  <p>
+      <a href="https://www.w3.org/html/" target="_blank"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </a>
+      <a href="https://www.python.org" target="_blank"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+      </a>
+      <a href="https://www.ecma-international.org" target="_blank"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="40" height="40"/> 
+      </a> 
+       <a href="https://www.typescriptlang.org">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+      </a>
+      <a href="https://reactjs.org/" target="_blank">
+          <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="react-js logo" >
+      </a> 
+      <a href="https://nodejs.org/en/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="node-js logo" >
+      </a>
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+       </a>
+       <a href="https://mariadb.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
+       </a>
+        <a href="https://www.mysql.com/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+        </a>
+        <a href="https://www.mongodb.com">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" >
+        </a>
+  </p>
+  <img align="center" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=P3DR0DEV&show_icons=true&locale=en&layout=compact" alt="P3DR0DEV" />
+  <!--
+  **P3DR0DEV/P3DR0DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -53,4 +69,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->

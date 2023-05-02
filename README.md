@@ -55,7 +55,7 @@
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" >
         </a>
   </p>
-  <img align="center" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=P3DR0DEV&show_icons=true&locale=en&layout=compact" alt="P3DR0DEV" />
+  <img align="center" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=p3dr0dev&show_icons=true&locale=en&layout=compact" alt="P3DR0DEV" />
   <!--
   **P3DR0DEV/P3DR0DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

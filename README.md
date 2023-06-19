@@ -9,7 +9,7 @@
 
 - 🤔 Currently improving skills with ReactJS & NodeJS/express.
 
-<h3>How to reach me</h3>
+<h3> - 📫 How to reach me</h3>
 
 - **pedrohenriquecamposmendes@gmail.com**
 - <a href="https://www.linkedin.com/in/pedro-cmendes/">LinkedIn</a>
@@ -17,8 +17,10 @@
 
   #
 
-- 🔭 Languages that i use: HTML/CSS, JavaScript, TypeScript, Python, ReactJS & NodeJS.
-- ⚡ Tools and DB: TailwindCSS, Docker, Prisma, Sequelize MYSQL/MariaDB, PostgreSQL and MongoDB.
+- 🔭 Languages that i use: HTML/CSS, JavaScript, TypeScript, Python.
+    - Libs and Frameworks: ReactJS, NodeJS, NextJs. 
+- ⚡ Tools: TailwindCSS, Docker, Prisma, Sequelize.
+- 🌱 Databases: MYSQL/MariaDB, PostgreSQL and MongoDB.
   <p>
       <a href="https://www.w3.org/html/" target="_blank"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 

@@ -8,7 +8,6 @@
     <a href="https://twitter.com/esquilolo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;</p>
 
 - 🤔 Currently improving skills with ReactJS & NodeJS/express.
-- 🌱 Learning TypeScript.
 
 <h3>How to reach me</h3>
 
@@ -18,8 +17,8 @@
 
   #
 
-- 🔭 Languages that i use: HTML/CSS, JavaScript, Python, ReactJS & NodeJS.
-- ⚡ Tools and DB: TailwindCSS, Docker, MYSQL/MariaDB, PostgreSQL and MongoDB.
+- 🔭 Languages that i use: HTML/CSS, JavaScript, TypeScript, Python, ReactJS & NodeJS.
+- ⚡ Tools and DB: TailwindCSS, Docker, Prisma, Sequelize MYSQL/MariaDB, PostgreSQL and MongoDB.
   <p>
       <a href="https://www.w3.org/html/" target="_blank"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 

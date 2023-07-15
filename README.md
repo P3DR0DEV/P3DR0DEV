@@ -14,7 +14,7 @@
 - **pedrohenriquecamposmendes@gmail.com**
 - <a href="https://www.linkedin.com/in/pedro-cmendes/">LinkedIn</a>
    <!--Logo Languages-->
-
+- 😄 [Checkout my Website](https://pedromendes.dev)
   #
 
 - 🔭 Languages that i use: HTML/CSS, JavaScript, TypeScript, Python.

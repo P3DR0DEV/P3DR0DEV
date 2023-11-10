@@ -24,19 +24,16 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,prisma,sequelize,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,prisma,sequelize" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,vercel,neovim,vim,vscode" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,vim,vscode" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=p3dr0dev&show_icons=true&locale=en&layout=compact" alt="P3DR0DEV" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=p3dr0dev&show_icons=true&locale=en&layout=compact" alt="P3DR0DEV" />
 </p>
   <!--
   **P3DR0DEV/P3DR0DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

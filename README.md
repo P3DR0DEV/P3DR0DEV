@@ -1,15 +1,15 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=P3DR0DEV&label=Profile%20views&color=0e75b6&style=flat" alt="P3DR0DEV" /> </p>
 <h1 align="center">Hi👋, i'm Pedro Henrique</h1>
 <div>
 <h3 align="center">I'm a Student, trying to improve my knowledge</h3>
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=P3DR0DEV&label=Profile%20views&color=0e75b6&style=flat" alt="P3DR0DEV" /> </p>
 <p align="center"><a href="https://instagram.com/pedro_camposm" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;
     <a href="https://twitter.com/esquilolo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;</p>
 
-- 🤔 Currently learning React-Native.
-- 🔭 I aim to learn Electron in the future..
+- 🤔 Currently working on my Java Skills.
 - 🌱 Always improving my Skills with TypeScript, React.JS and Node.JS.
 - 👩‍💻 Programming is my passion.
 - 🎓 Graduating on System Analysis and Development.
@@ -22,8 +22,8 @@
   #
 - 🔭 Languages that i use: HTML/CSS, JavaScript, TypeScript, Python, Java.
   - Libs and Frameworks: ReactJS, NodeJS, Express, Fastify, React-Native NextJs, SpringBoot.
-- ⚡ Tools: TailwindCSS, Docker, Prisma, Sequelize.
-- 🌱 Databases: MYSQL/MariaDB, PostgreSQL and MongoDB.
+- ⚡ Tools: TailwindCSS, Docker, Prisma, Sequelize, JPA, Hibernate.
+- 🌱 Databases: MYSQL/MariaDB, H2, PostgreSQL and MongoDB.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
 </p>

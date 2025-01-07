@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,prisma,sequelize" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,tailwind,prisma,sequelize" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,figma,notion,vercel,neovim,vim,vscode" />

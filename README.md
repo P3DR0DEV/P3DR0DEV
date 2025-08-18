@@ -9,13 +9,13 @@
   </a>&nbsp;
     <a href="https://twitter.com/esquilolo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;</p>
 
-- 🤔 Currently working on my Java Skills.
-- 🌱 Always improving my Skills with TypeScript, React.JS and Node.JS.
+- 🤔 Currently working on Hard Skills.
+- 🌱 Always improving my knowledge in TypeScript, React.JS and Node.JS.
 - 👩‍💻 Programming is my passion.
-- 🎓 Graduating on System Analysis and Development.
+- 🎓 Graduated on System Analysis and Development.
 <h3> - 📫 How to reach me</h3>
 
-- [Checkout my Website](https://pedromendes.dev)😄
+- [Checkout my Website, there are many professional projects there.](https://pedromendes.dev)😄
 - <a href="https://www.linkedin.com/in/pedro-cmendes/">LinkedIn</a>
 - <a href="mailto:pedro.mendesctt@gmail.com">E-Mail</a>
    <!--Logo Languages-->
@@ -24,6 +24,7 @@
   - Libs and Frameworks: ReactJS, NodeJS, Express, Fastify, React-Native NextJs, SpringBoot.
 - ⚡ Tools: TailwindCSS, Docker, Prisma, Sequelize, JPA, Hibernate.
 - 🌱 Databases: MYSQL/MariaDB, H2, PostgreSQL and MongoDB.
+- 💻 OS: Linux in servers, MACOS for work and Windows for games!
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
 </p>

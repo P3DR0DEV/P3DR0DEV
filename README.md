@@ -34,7 +34,7 @@ Por motivos de confidencialidade, o código-fonte desses projetos não pode ser 
 
 - 🔭 **Linguagens:** JavaScript, TypeScript, Python, Java, HTML e CSS.
 - 📚 **Backend & Frontend:** Node.js, Fastify, Express, React.js, Next.js, React Native, Spring Boot.
-- ⚙️ **Ferramentas & ORMs:** Docker, Prisma, Sequelize, JPA, Hibernate, Tailwind CSS.
+- ⚙️ **Ferramentas & ORMs:** Docker, Prisma, Drizzle, Sequelize, JPA, Hibernate, Tailwind CSS.
 - 🗄️ **Bancos de dados:** PostgreSQL, Redis, MongoDB, MySQL/MariaDB e H2.
 - 💻 **Sistemas operacionais:** Linux (servidores), macOS (ambiente de trabalho) e Windows.
 

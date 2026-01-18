@@ -1,30 +1,43 @@
-<h1 align="center">Hi👋, i'm Pedro Henrique</h1>
+<h1 align="center">Olá 👋, me chamo Pedro Henrique</h1>
 <div>
-<h3 align="center">I'm a Student, trying to improve my knowledge</h3>
+<h3 align="center">Desenvolvedor Full-Stack com foco em Node.js, TypeScript, React e Next.js!</h3>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=P3DR0DEV&label=Profile%20views&color=0e75b6&style=flat" alt="P3DR0DEV" /> </p>
-<p align="center"><a href="https://instagram.com/pedro_camposm" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;
-    <a href="https://twitter.com/esquilolo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=P3DR0DEV&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="P3DR0DEV" />
+</p>
 
-- 🤔 Currently working on Hard Skills.
-- 🌱 Always improving my knowledge in TypeScript, React.JS and Node.JS.
-- 👩‍💻 Programming is my passion.
-- 🎓 Graduated on System Analysis and Development.
-<h3> - 📫 How to reach me</h3>
+- 🤔 Desenvolvedor Full Stack com foco em **Node.js, TypeScript e React.js**.
+- 🌱 Sempre em evolução técnica, com foco em **boas práticas e qualidade de código**.
+- 👨‍💻 Apaixonado por tecnologia e por transformar problemas em soluções eficientes.
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.
 
-- [Checkout my Website, there are many professional projects there.](https://pedromendes.dev)😄
-- <a href="https://www.linkedin.com/in/pedro-cmendes/">LinkedIn</a>
-- <a href="mailto:pedro.mendesctt@gmail.com">E-Mail</a>
-   <!--Logo Languages-->
-  #
-- 🔭 Languages that i use: HTML/CSS, JavaScript, TypeScript, Python, Java.
-  - Libs and Frameworks: ReactJS, NodeJS, Express, Fastify, React-Native NextJs, SpringBoot.
-- ⚡ Tools: TailwindCSS, Docker, Prisma, Sequelize, JPA, Hibernate.
-- 🌱 Databases: MYSQL/MariaDB, H2, PostgreSQL and MongoDB.
-- 💻 OS: Linux in servers, MACOS for work and Windows for games!
+<h3> - 📫 Como entrar em contato comigo</h3>
+
+- [Confira meu site — lá estão diversos projetos profissionais.](https://pedromendes.dev) 😄  
+- <a href="https://www.linkedin.com/in/pedro-cmendes/">LinkedIn</a>  
+- <a href="mailto:pedro.mendesctt@gmail.com">E-mail</a>
+
+## Experiência Profissional
+
+A maior parte dos projetos que desenvolvo profissionalmente foi criada para a empresa onde trabalho e está hospedada em repositórios privados.
+
+Esses projetos incluem:
+- APIs backend desenvolvidas com Node.js e TypeScript
+- Sistemas internos em produção utilizados pelos colaboradores da empresa
+- Aplicações com testes automatizados, integração com bancos de dados e serviços em nuvem
+
+Por motivos de confidencialidade, o código-fonte desses projetos não pode ser disponibilizado publicamente.
+
+<!-- Logo Languages -->
+#
+
+- 🔭 **Linguagens:** JavaScript, TypeScript, Python, Java, HTML e CSS.
+- 📚 **Backend & Frontend:** Node.js, Fastify, Express, React.js, Next.js, React Native, Spring Boot.
+- ⚙️ **Ferramentas & ORMs:** Docker, Prisma, Sequelize, JPA, Hibernate, Tailwind CSS.
+- 🗄️ **Bancos de dados:** PostgreSQL, Redis, MongoDB, MySQL/MariaDB e H2.
+- 💻 **Sistemas operacionais:** Linux (servidores), macOS (ambiente de trabalho) e Windows.
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
 </p>
@@ -38,8 +51,9 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=p3dr0dev&show_icons=true&locale=en&layout=compact" alt="P3DR0DEV" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=p3dr0dev&show_icons=true&locale=pt-br&layout=compact" alt="P3DR0DEV" />
 </p>
+
   <!--
   **P3DR0DEV/P3DR0DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -27,7 +27,7 @@ Esses projetos incluem:
 - Sistemas internos em produção utilizados pelos colaboradores da empresa
 - Aplicações com testes automatizados, integração com bancos de dados e serviços em nuvem
 
-Por motivos de confidencialidade, o código-fonte desses projetos não pode ser disponibilizado publicamente.
+Por motivos de confidencialidade, o código-fonte desses projetos não pode ser disponibilizado publicamente, porém podem ser visualizados em meu portfólio.
 
 <!-- Logo Languages -->
 #
